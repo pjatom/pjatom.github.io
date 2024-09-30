@@ -15,15 +15,15 @@
       </div>
       <div class="items">
         <a class="menuitem" href="/music">
-          <span class="text">音乐</span>
+          <span class="text">MUSIC</span>
         </a>
         <a class="menuitem" href="/about">
-          <span class="text">关于</span>
+          <span class="text">ABOUT</span>
         </a>
       </div>
     </div>
     <div class="break">
-      <p class="headline">现在即是崭新世代。</p>
+      <p class="headline">This is a brand new generation.</p>
     </div>
     <div class="contents">
       
@@ -31,7 +31,7 @@
         <hr/>
         <div class="belt"> 
           <div>
-            <p class="headline">我们是?</p>
+            <p class="headline">Who are we?</p>
           </div>
           <div class="icon-light">
             <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M41.9999 24H5.99994" stroke="#ffffff" stroke-width="4" stroke-linecap="butt" stroke-linejoin="round"/><path d="M30 12L42 24L30 36" stroke="#ffffff" stroke-width="4" stroke-linecap="butt" stroke-linejoin="round"/></svg>
@@ -47,7 +47,7 @@
         <hr/>
         <div class="belt"> 
           <div>
-            <p class="headline">我们创作什么?</p>
+            <p class="headline">What do we do?</p>
           </div>
           <div class="icon-light">
             <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M41.9999 24H5.99994" stroke="#ffffff" stroke-width="4" stroke-linecap="butt" stroke-linejoin="round"/><path d="M30 12L42 24L30 36" stroke="#ffffff" stroke-width="4" stroke-linecap="butt" stroke-linejoin="round"/></svg>
@@ -58,7 +58,7 @@
         </div>
         <hr/>
       </div>
-      <p class="headline">我们所思所想的一切。</p>
+      <p class="headline">What we want to do.</p>
     </div>
     <div class="footer"> 
       <hr/>

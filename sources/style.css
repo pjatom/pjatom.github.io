@@ -246,5 +246,5 @@ hr{
   justify-content: center;
   align-items: center;
   
-  text-shadow: 0 0 10px #ffffff, 0 0 0px #ffffff, 0 0 30px #ffffff, 0 0 40px #ffffff;
+  text-shadow: 0 0 2px #ffffff, 0 0 3px #ffffff, 0 0 10px #ffffff, 0 0 60px #ffffff;
 }
